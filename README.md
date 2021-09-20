@@ -33,7 +33,7 @@ From channel       To channel        from another channel
 ### Installing Requirements
 Install the required Python Modules in your machine.
 ```
-pip3 install -r requirements.txt
+pip3 install --user --no-cache-dir -U -r requirements.txt
 ```
 ### Deployment
 With python3.7 or later.
