@@ -8,7 +8,7 @@ To configure this bot add the environment variables stated below. Or add them in
 - `BOT_TOKEN` - Get it by creating a bot on [https://t.me/BotFather](https://t.me/BotFather)
 - `FROM_CHATS` - Chat ID of the chats from where to forward messages. Seperated by space.
 - `TO_CHATS` - Chat ID of the chats where to forward messages. Seperated by space.
-- `TELEGRAM_SESSION` - (Optional) If you want to use this bot as user add the telegram session name in environment variables. Get it by running [GenString](https://replit.com/@viperadnan/genstring) and select the option 1 and follow the instructions.
+- `TELEGRAM_SESSION` - (Optional) If you want to use this bot as user add the telegram session name in environment variables. Get it by running [GenString](https://replit.com/@viperadnan/genstring) « your own risk| and select the option 1 and follow the instructions.
 - `SUDO_USERS` - (Optional) Chat identifier of the sudo user. For multiple users use `;` as seperator.
 - `ADVANCE_CONFIG` - (Optional) If you want forward message from chat A to chat B and from chat C to chat D add this value in the format given below.
 ```
